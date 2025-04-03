@@ -1,4 +1,4 @@
 ma ligne modifiée
-ligne1
+ligne1 modifiée
 ligne2
 ligne3
