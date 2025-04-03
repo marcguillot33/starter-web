@@ -1,4 +1,9 @@
 ma ligne modifiée
+<<<<<<< HEAD
 ligne1 modifiée
+ligne2
+=======
+ligne1
 ligne2 modifiée
+>>>>>>> realwork
 ligne3
