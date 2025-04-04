@@ -1,9 +1,8 @@
 ma ligne modifiée
 <<<<<<< HEAD
-ligne1 modifiée
-ligne2
+ligne1 modifiée sur branche bconflict
 =======
-ligne1
+ligne1 modifiée sur branche maste
+>>>>>>> ed1f69e (conflict modifie sur master)
 ligne2 modifiée
->>>>>>> realwork
 ligne3
